@@ -18,7 +18,11 @@ cd to wd/src
 type in the following command : "java algoproj.Main"
 
 You will be prompted to type the path of the file containing the edgelist
+
 Type in the delimiter with no quotes. eg: \t for tab delimited
+
 type y if you want to find the degeneration
+
 type y if you want to find the proper coloring of the graph, which will be saved as a csv file
+
 type vertexID that is not negative to find the kcore.
