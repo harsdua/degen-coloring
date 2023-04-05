@@ -10,8 +10,11 @@ You need java-jdk17 installed before hand
 Let wd be the current directory of this file
 
 open terminal and cd to wd/src/algoproj 
+
 type in the following command : "javac Algorithms.java Main.java UndirectedGraph.java"
+
 cd to wd/src
+
 type in the following command : "java algoproj.Main"
 
 You will be prompted to type the path of the file containing the edgelist
